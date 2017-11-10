@@ -10,7 +10,7 @@ import android.widget.Button;
 public class Home extends AppCompatActivity implements View.OnClickListener{
 
     Button app;
-
+// second change
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
